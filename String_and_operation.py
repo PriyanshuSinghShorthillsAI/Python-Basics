@@ -66,3 +66,8 @@ name = " Priyanshu  "
 print(name.strip().upper()) 
 
 
+#Playing With Indexes
+
+text = "Priyanshu"
+print(text[1])
+print(text[-3]);
